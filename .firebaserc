@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularfire-example-3fe48": {
+      "hosting": {
+        "hr-timesheet": [
+          "angularfire-example-3fe48"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularfire-example-3fe48"
+  }
+}
